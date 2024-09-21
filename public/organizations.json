@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "dotnet-foundation",
+    "title": ".NET Foundation",
+    "description": "We foster open development, collaboration and community engagement on the .NET platform.",
+    "isVerified": true,
+    "members": 822,
+    "repositories": 25,
+    "logo": "https://avatars.githubusercontent.com/u/51926930?s=200&v=4"
+  },
+  {
+    "id": 2,
+    "name": "Infinite-Solutions-Intl",
+    "title": "Infinite Solutions",
+    "description": "We are a tech company dedicated to providing innovative solutions to today's problems. We are passionate about creating products that are user-friendly and ...",
+    "isVerified": false,
+    "members": 4,
+    "repositories": 37,
+    "logo": "https://avatars.githubusercontent.com/u/87870290?s=200&v=4"
+  },
+  {
+    "id": 3,
+    "name": "dotnetcameroon",
+    "title": ".NET Cameroon",
+    "description": "Cameroon community of .NET developers",
+    "isVerified": false,
+    "members": 4,
+    "repositories": 9,
+    "logo": "https://avatars.githubusercontent.com/u/141404109?s=200&v=4",
+    "location": "Douala"
+  }
+]

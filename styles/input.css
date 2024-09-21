@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  @apply text-white;
+}
+
+body{
+  @apply bg-black;
+}
+
+.year-filter a.active{
+  @apply bg-primary text-white;
+}
+
+.year-filter a.active:hover{
+  @apply bg-primary;
+}
